@@ -1,0 +1,6 @@
+train: E:\TOOL\datasets\project-3-at-2024-10-07-22-03-6e69ee58\train\images
+val: E:\TOOL\datasets\project-3-at-2024-10-07-22-03-6e69ee58\val\images
+#test: E:\PROJECT\deta_set\test_city-v27i\test_city.v27i.yolov9\test
+
+nc: 1
+names: ['calcification']

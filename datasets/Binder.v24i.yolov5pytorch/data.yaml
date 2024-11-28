@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 47
+names: ['3W', '4W', 'A1', 'A2', 'A3', 'AE', 'B', 'BV', 'BV2', 'BVWA', 'C', 'CBV', 'CS', 'CV2', 'CY', 'D2', 'D3', 'E', 'E2', 'EC', 'EJ', 'EPA', 'F', 'F2', 'FC', 'FT1', 'FT2', 'GV', 'HE', 'HV', 'HVWT', 'LM', 'M', 'O', 'P', 'PCV', 'R', 'RPV', 'RV1', 'RV2', 'RVM', 'S', 'SG', 'SP', 'SV', 'TK', 'X']
+
+roboflow:
+  workspace: binder-2
+  project: binder
+  version: 24
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/binder-2/binder/dataset/24
